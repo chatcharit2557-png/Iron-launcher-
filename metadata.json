@@ -1,0 +1,6 @@
+{
+  "name": "Iron Launcher",
+  "description": "Minecraft Java Edition launcher with easy mod installation, Fabric/Forge support, and local server hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
